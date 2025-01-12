@@ -136,7 +136,7 @@ MODEL_CONFIG = {
 
 Run the test suite:
 ```bash
-python -m unittest test_chatbot.py
+python main.py
 ```
 
 ## Logging
