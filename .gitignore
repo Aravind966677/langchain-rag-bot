@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# FAISS index files
+*.faiss
+*.index
+
+# IDE settings
+.vscode/
+.idea/
+
+# Model cache
+.cache/

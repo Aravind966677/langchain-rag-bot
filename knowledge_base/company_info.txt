@@ -1,0 +1,21 @@
+Company: TechCorp Solutions
+Founded: 2010
+Location: Silicon Valley, CA
+
+About Us:
+TechCorp Solutions is a leading provider of artificial intelligence and machine learning solutions. We specialize in developing cutting-edge AI applications for businesses of all sizes.
+
+Our Products:
+1. AI Analytics Suite
+   - Real-time data analysis
+   - Predictive modeling
+   - Custom reporting dashboard
+
+2. Machine Learning Platform
+   - Automated model training
+   - Feature engineering tools
+   - Model deployment system
+
+Contact Information:
+Email: support@techcorp.com
+Phone: (555) 123-4567
